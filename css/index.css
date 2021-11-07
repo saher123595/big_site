@@ -1208,6 +1208,11 @@ nav .collapse ul li.ac {
     opacity: .5;
 }
 
+.Blog .btn-group {
+    width: 300 px;
+    margin: 40 px auto 0;
+    display: flex;
+}
 
 /* end Blog */
 
